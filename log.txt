@@ -1,0 +1,12 @@
+Log da thread 1: evento 1
+Log da thread 2: evento 1
+Log da thread 3: evento 1
+Log da thread 1: evento 2
+Log da thread 2: evento 2
+Log da thread 3: evento 2
+Log da thread 1: evento 3
+Log da thread 3: evento 3
+Log da thread 2: evento 3
+Log da thread 3: evento 4
+Log da thread 2: evento 4
+Log da thread 1: evento 4
